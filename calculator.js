@@ -1,4 +1,3 @@
-
 //Функция сложения чисел
 function add(a, b) {
     return a + b;
