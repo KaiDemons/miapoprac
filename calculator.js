@@ -16,3 +16,7 @@ function divide(a, b) {
 }
 
 module.exports = { add, subtract, multiply, divide };
+
+function power(a, b) {
+    return Math.pow(a, b);
+}
